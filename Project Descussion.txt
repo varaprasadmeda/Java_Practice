@@ -1,0 +1,38 @@
+UI Developer
+
+Bakend Developer:
+----------------
+Controllers
+Service Classes
+Repositories
+Required bean classes(Model classes)
+
+end to end development
+
+
+1. I am  backend developer
+2. Communiticating with client for getting the requirement gethering and understaning. Through JIRA
+2. My role is implementing controllers, Service classes, Repositories and Required bean classes
+3. Connecting to Database and fetching the results and then send back to frontend
+4. Implementing junit test classes for Controllers and Service classes
+
+What are the you are you are using in your project:
+IDE - STS
+Postman - testing for API calls
+Jenkins - Building the application
+Bitbucket - repostory for commit and push operations
+Maven - repositor for maintaining dependecies
+JIRA - Tasks
+
+Project Details:
+----------------
+Project name/Application : USGS healthCare
+Client name : USGS
+
+
+We are developing this application for the client USGS.
+This is a healthcare admisstration platform designed for customer needs.
+It is developing based on restful webservice architecture.
+Couple of module are implemented in this project like Account recievable, Billing and Reporting etc.
+
+To develop this application we are using Java, Spring boot, JPA and Oracle Database
